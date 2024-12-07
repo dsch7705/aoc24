@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/dscho/source/AOC/aoc24/day2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\day2.dir\\main.cpp.obj -c C:\\Users\\dscho\\source\\AOC\\aoc24\\day2\\main.cpp",
+  "file": "C:/Users/dscho/source/AOC/aoc24/day2/main.cpp",
+  "output": "CMakeFiles/day2.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/dscho/source/AOC/aoc24/day2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\day2.dir\\input.cpp.obj -c C:\\Users\\dscho\\source\\AOC\\aoc24\\day2\\input.cpp",
+  "file": "C:/Users/dscho/source/AOC/aoc24/day2/input.cpp",
+  "output": "CMakeFiles/day2.dir/input.cpp.obj"
+}
+]
