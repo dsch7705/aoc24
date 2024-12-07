@@ -1,0 +1,3 @@
+C:/Users/dscho/source/AOC/aoc24/day4/build/CMakeFiles/day4.dir
+C:/Users/dscho/source/AOC/aoc24/day4/build/CMakeFiles/edit_cache.dir
+C:/Users/dscho/source/AOC/aoc24/day4/build/CMakeFiles/rebuild_cache.dir
