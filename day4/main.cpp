@@ -36,8 +36,8 @@ int main()
     {
         for (int x = 0; x < input_2.size() - 2; x++)
         {
-            //if (input_2[y + 1][x + 1] != 'A')
-                //continue;
+            if (input_2[y + 1][x + 1] != 'A')
+                continue;
 
             std::string neg_diag = {input_2[y][x], input_2[y + 1][x + 1], input_2[y + 2][x + 2]};
             std::string pos_diag = {input_2[y + 2][x], input_2[y + 1][x + 1], input_2[y][x + 2]};
